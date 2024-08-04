@@ -102,7 +102,6 @@ We welcome contributions from developers of all skill levels:
 - 🐛 [Report bugs](https://github.com/Nue-Foundation)
 - 💡 [Suggest features](https://github.com/Nue-Foundation)
 - 🛠️ [Contribute code](https://github.com/Nue-Foundation/Contributing)
-- 📚 [Improve documentation](https://github.com/NueFoundation/Nue-Docs)
 
 ## License
 
